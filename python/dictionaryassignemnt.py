@@ -159,10 +159,13 @@
 # ## Question 14: Merge Two Dictionaries
 # 
 # Input:
-d1={'a':1,'b':2}
-d2={'c':3,'d':4}
+# d1={'a':1,'b':2}
+# d2={'c':3,'d':4}
+# for i in d2:
+#     if i not in d1:
+#         d1[i]=d2[i]
 
-# Output:
+# print(d1)# Output:
 # {'a':1,'b':2,'c':3,'d':4}
 
 

@@ -107,18 +107,18 @@ print(unique)
 # ## Q7. Print Only Even Numbers
 # 
 # Input
-# nums = [11, 20, 33, 40, 55, 60]
-# # 
-# # Output
-# # 20
-# # 40
-# # 60
+nums = [11, 20, 33, 40, 55, 60]
+# 
+# Output
+# 20
+# 40
+# 60
 
-# even=[]
-# for i in nums:
-#     if i%2==0:
-#         even.append(i)
-# print(even)
+even=[]
+for i in nums:
+    if i%2==0:
+        even.append(i)
+print(even)
 
 # %% [markdown]
 # ## Q8. Merge Two Lists
